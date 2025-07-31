@@ -23,3 +23,8 @@ Product Managers, Tech Leads, AI startup founders, and anyone involved in shapin
 - Open-source prompt audit tracker
 
 Contributions welcome — feel free to fork, star, or submit PRs!
+
+© 2025 Tejaswini Mantha (@siri9).  
+This framework is licensed under CC BY 4.0.  
+If you use or adapt any content, attribution is required.
+
